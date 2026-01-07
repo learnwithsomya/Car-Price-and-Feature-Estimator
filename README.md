@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-  <h1 align="center"><b>Car Price and Feature Estimator</b></h1>
+  <h1 align="center"><b> Test Mode: Car Price and Feature Estimator</b></h1>
 
   <p align="center">
     Analyze-Visualize-Predict-Contribute
